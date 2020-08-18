@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/bin/Debug/netcoreapp3.1/House construction.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/bin/Debug/netcoreapp3.1/House construction.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/bin/Debug/netcoreapp3.1/House construction.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/bin/Debug/netcoreapp3.1/House construction.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/bin/Debug/netcoreapp3.1/House construction.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/obj/Debug/netcoreapp3.1/House construction.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/obj/Debug/netcoreapp3.1/House construction.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/obj/Debug/netcoreapp3.1/House construction.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/obj/Debug/netcoreapp3.1/House construction.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_12/House construction/obj/Debug/netcoreapp3.1/House construction.pdb
